@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.btn-google {
+  color: #DB4437 !important;
+  background-color: #fff !important;
+  border-color: #DB4437 !important;
+}
+
+.btn-google:hover {
+  background-color: #F4B400 !important;
+  color: white !important
+}

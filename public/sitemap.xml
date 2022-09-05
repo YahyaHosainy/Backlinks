@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://backlinks.services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/about"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/terms-of-use</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/terms-of-use"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/blog"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/register</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/register"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/contact-us</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/contact-us"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/services"/>
+  </url>
+  <url>
+    <loc>https://backlinks.services/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://backlinks.services/faq"/>
+  </url>
+</urlset>

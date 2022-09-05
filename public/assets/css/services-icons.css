@@ -1,0 +1,45 @@
+	/*
+  	Flaticon icon font: services-icons
+  	Creation date: 15/12/2020 21:02
+  	*/
+	
+	@font-face {
+	    font-family: "services-icons";
+	    src: url("../../assets/fonts/services-icons.eot");
+	    src: url("../../assets/fonts/services-icons.eot?#iefix") format("embedded-opentype"), url("../../assets/fonts/services-icons.woff2") format("woff2"), url("../../assets/fonts/services-icons.woff") format("woff"), url("../../assets/fonts/services-icons.ttf") format("truetype"), url("../../assets/fonts/services-icons.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "services-icons";
+	        src: url("../../assets/fonts/services-icons.svg#Flaticon") format("svg");
+	    }
+	}
+	
+	[class^="services-icons-"]:before,
+	[class*=" services-icons-"]:before,
+	[class^="services-icons-"]:after,
+	[class*=" services-icons-"]:after {
+	    font-family: services-icons;
+	    /* font-size: 20px; */
+	    font-style: normal;
+	    /* margin-left: 20px; */
+	}
+	
+	.services-icons-presentation:before {
+	    content: "\f100";
+	}
+	
+	.services-icons-document:before {
+	    content: "\f101";
+	}
+	
+	.services-icons-directory-submission-symbol:before {
+	    content: "\f102";
+	}
+	
+	.services-icons-wikipedia:before {
+	    content: "\f103";
+	}
